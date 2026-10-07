@@ -34,7 +34,7 @@ JavaScript-ToDo-App/
 ├── index.html
 ├── main.js
 ├── .gitignore
-└── README.md
+
 ```
 
 ## 🧩 How the App Works
